@@ -87,4 +87,6 @@ img{
 .btn{
     background-color: greenyellow ;
     border-radius: 5px;
+    cursor:pointer;
+
 }
